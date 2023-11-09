@@ -29,6 +29,7 @@ Please submit any recommendations you have [here](https://forms.gle/4j4i1oasAKuS
 [Notion](https://www.notion.so/) - Versatile tool for notes, tasks, and collaboration. (Mac, iPhone, iPad, Web)
 
 **Calendar/Task Apps:**
+
 [Cron](https://cron.com/) - Google Calendar client for teams (Mac, iPhone, iPad, Web)
 
 [Fantastical](https://flexibits.com/fantastical) - Powerful calendar client (Mac, iPhone, iPad)
