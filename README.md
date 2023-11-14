@@ -39,6 +39,8 @@ Please submit any recommendations you have [here](https://forms.gle/4j4i1oasAKuS
 [Amie](https://amie.so/) - Tasks and Calendars in one app (Mac, iPhone, iPad, Web)
 
 [Tweek](https://tweek.so/) - Simple, week-based calendar app (Web, iPhone, iPad)
+
+[Morgen Calendar and Assist](https://www.morgen.so/) - Calendar app supporting iCloud, Google and more (Mac, Web, iPhone)
 ### Media Consumption
 [Overcast](https://overcast.fm/) - A better podcast app (iPhone, iPad, Web)
 
