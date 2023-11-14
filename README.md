@@ -1,6 +1,6 @@
 # AppsList
 Great Apps for Mac, iPhone, and iPad.
-Please submit any recommendations you have [here](https://forms.gle/4j4i1oasAKuSonDp8).
+Please submit any recommendations you have [here](https://forms.gle/4j4i1oasAKuSonDp8). If you want a pretty, shareable list (most likely with less apps) share [this](https://arc.net/folder/1AE2D275-FEC5-4077-9C3E-CE8826A4B079) link
 ### Browsers
 [Arc](https://arc.net/) - Productivity Focused Browser (Mac, iPhone)
 
