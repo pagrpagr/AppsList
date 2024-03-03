@@ -14,6 +14,8 @@ Please submit any recommendations you have [here](https://forms.gle/4j4i1oasAKuS
 
 [UnTrap for YouTube](https://untrap.app/) - Personalise your YouTube experience (Chromium, Firefox, Edge, Safari)
 
+[Dark Reader](https://darkreader.org/) - Dark mode for every website (Chromium, Firefox, Safari, Edge)
+
 [Unhook YouTube](https://unhook.app/) - Hide elements from the YouTube UI (Chromium, Firefox, Edge)
 
 ### Productivity Tools
@@ -22,27 +24,36 @@ Please submit any recommendations you have [here](https://forms.gle/4j4i1oasAKuS
 
 [Obsidian](https://obsidian.md/) - Customisable markdown-based notes app (Mac, iPhone, iPad)
 
+[CotEditor](https://coteditor.com/) - The simple, plain text editor you need (Mac)
+
 [Craft](https://www.craft.do/) - A beautiful document app (Mac, iPhone, iPad, Web)
+
+[Nota](https://nota.md/) - Simple notes app designed for local Markdown files (Mac)
 
 [Pile](https://udara.io/pile/) - Simple markdown-based journalling app (Mac)
 
+[acreom](https://acreom.com/) - Markdown notes and task app for developers (Mac, iPhone, iPad, Web)
+
 [Notion](https://www.notion.so/) - Versatile tool for notes, tasks, and collaboration. (Mac, iPhone, iPad, Web)
 
-**Calendar/Task Apps:**
+[Hi Sticky](https://apps.apple.com/us/app/hi-sticky-notes-se-widget/id1610634186) - The world's simplest notes app (Mac, iPhone, iPad, Watch, Apple Vision)
 
-[Cron](https://cron.com/) - Google Calendar client for teams (Mac, iPhone, iPad, Web)
+#### Calendar/Task Apps
 
-[Fantastical](https://flexibits.com/fantastical) - Powerful calendar client (Mac, iPhone, iPad)
+[Fantastical](https://flexibits.com/fantastical) - Powerful calendar client (Mac, iPhone, iPad, Apple Vision)
 
-[Things](https://culturedcode.com/things/) - Amazing tasks app  (Mac, iPhone, iPad, Watch)
+[Things](https://culturedcode.com/things/) - Amazing tasks app  (Mac, iPhone, iPad, Watch, Apple Vision)
 
 [Amie](https://amie.so/) - Tasks and Calendars in one app (Mac, iPhone, iPad, Web)
 
 [Tweek](https://tweek.so/) - Simple, week-based calendar app (Web, iPhone, iPad)
 
-[Morgen Calendar and Assist](https://www.morgen.so/) - Calendar app supporting iCloud, Google and more (Mac, Web, iPhone)
+[~~Cron~~ Notion Calendar](https://cron.com/) - Google Calendar client for teams (Mac, iPhone, iPad, Web)
+
 ### Media Consumption
 [Overcast](https://overcast.fm/) - A better podcast app (iPhone, iPad, Web)
+
+[Reeder](https://www.reederapp.com/) - A Simply Beautiful RSS Reader (iPhone, iPad, Mac)
 
 [NetNewsWire](https://netnewswire.com/) - Amazing free RSS reader for power users (Mac, iPhone, iPad)
 
