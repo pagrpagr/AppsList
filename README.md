@@ -6,9 +6,13 @@ Please submit any recommendations you have [here](https://forms.gle/4j4i1oasAKuS
 
 [Brave](https://brave.com/) - Privacy Focused Browser (Mac, iPhone, iPad)
 
-[Quiche](https://quiche.works/browser/) - Customisable Mobile Browser (iPhone)
-
 [Orion](https://browser.kagi.com/) - Safari alternative that supports Chrome extensions (Mac, iPhone, iPad)
+
+[Floorp](https://floorp.app/en/) - Customisable Firefox Fork (Mac)
+
+[Min](https://minbrowser.org/) - Simple, private browser built in electron (Mac)
+
+[Quiche](https://quiche.works/browser/) - Customisable Mobile Browser (iPhone)
 #### Browser Extensions
 [uBlock Origin](https://ublockorigin.com/) - Powerful, open-source ad/content blocker (Chromium, Firefox, Edge)
 
