@@ -8,6 +8,8 @@ Please submit any recommendations you have [here](https://forms.gle/4j4i1oasAKuS
 
 [Orion](https://browser.kagi.com/) - Safari alternative that supports Chrome extensions (Mac, iPhone, iPad)
 
+[Vivaldi](https://vivaldi.com/) - Customisable Power user web browser (Mac, iPhone, iPad)
+
 [Floorp](https://floorp.app/en/) - Customisable Firefox Fork (Mac)
 
 [Min](https://minbrowser.org/) - Simple, private browser built in electron (Mac)
